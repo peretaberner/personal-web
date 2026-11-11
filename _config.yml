@@ -1,12 +1,13 @@
+
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Pere A. Taberner"
-title: "Senior Research Economist & PhD Candidate"
-institution: "KSNET, University of Barcelona & IEB"
+title: "Senior Research Economist (KSNET) & PhD Candidate (University of Barcelona & IEB)"
+institution: ""
 email: peretaberner@gmail.com
 photo: pere.jpg  # place your photo in images/
-
+ 
 # ============================================================
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
@@ -18,21 +19,21 @@ links:
   twitter: ""
   linkedin: "https://www.linkedin.com/in/pere-antoni-taberner/"
   cv: ""  # e.g., "papers/cv.pdf"
-
+ 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
 accent_color: "#23395b"      # theme color; light and dark variants are derived automatically
-dark_mode: true              # set to false to disable dark mode entirely
+dark_mode: false             # set to false to disable dark mode entirely
 math: false                  # true loads MathJax on every page; or add `math: true` to individual pages
 description: "Academic webpage of Pere A. Taberner"
-
+ 
 # When deploying with the included GitHub Actions workflow these are filled
 # in automatically from your Pages settings (user site, project site, or
 # custom domain). Set them only if you host the site somewhere else.
 url: ""
 baseurl: ""
-
+ 
 # Analytics -- fill in whichever service you use; leave the rest blank.
 analytics:
   google_id: ""          # Google Analytics 4 measurement ID, e.g. G-XXXXXXXXXX
@@ -40,7 +41,7 @@ analytics:
   umami_website_id: ""   # Umami: website ID (and umami_src if self-hosted)
   umami_src: ""          #   default https://cloud.umami.is/script.js
   goatcounter: ""        # GoatCounter: your code, e.g. jsmith (for jsmith.goatcounter.com)
-
+ 
 # ============================================================
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
@@ -55,7 +56,7 @@ nav_pages:
   - name: links
   - name: blog
   - name: contact
-
+ 
 # ============================================================
 # STEP 5: Publications (assets/ref.bib)
 # ============================================================
@@ -78,28 +79,28 @@ scholar:
     reversed: "reversed"
   # Template-only fields, kept out of the copyable BibTeX
   bibtex_skip_fields: [abstract, month_numeric, file, selected, code, slides, video, poster, data, urllabel, award, awardurl, blog, blogname, blog2, blog2name]
-
+ 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
 # ============================================================
 # Blog posts use short URLs: /post-title/
 permalink: /:title/
-
+ 
 include:
   - _pages
-
+ 
 sass:
   style: compressed
   quiet_deps: true                # hide warnings from vendored Bootstrap SCSS
   silence_deprecations: [import]  # Bootstrap 5.3 still uses @import
   sourcemap: development          # no .map file in production builds
-
+ 
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
+ 
 kramdown:
   input: GFM
   hard_wrap: false
@@ -110,9 +111,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true
-
+ 
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
-
+ 
 # Repository files that should not be published to the site
 exclude:
   - Gemfile
@@ -125,3 +126,4 @@ exclude:
   - vendor
   - .bundle
   - node_modules
+ 
