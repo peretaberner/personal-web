@@ -40,7 +40,7 @@ analytics:
   plausible_domain: ""   # Plausible: your site's domain, e.g. jsmith.github.io
   umami_website_id: ""   # Umami: website ID (and umami_src if self-hosted)
   umami_src: ""          #   default https://cloud.umami.is/script.js
-  goatcounter: ""        # GoatCounter: your code, e.g. jsmith (for jsmith.goatcounter.com)
+  goatcounter: "peretaberner"        # GoatCounter: your code, e.g. jsmith (for jsmith.goatcounter.com)
  
 # ============================================================
 # STEP 4: Choose Your Pages (comment out any you don't need)
