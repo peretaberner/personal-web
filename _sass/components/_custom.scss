@@ -1,0 +1,139 @@
+// =============================================================
+// Site-specific additions for peretaberner.eu
+// =============================================================
+
+// Dissemination links (blog posts, media) on publications
+.btn-pill.btn-blog {
+  background-color: var(--accent-light);
+  color: var(--accent);
+  border-color: var(--accent);
+  &:hover { background-color: var(--accent); color: var(--on-accent); }
+}
+
+// Prize line under a reference
+.pub-award {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  margin-top: var(--space-2);
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--accent);
+
+  svg { flex: 0 0 auto; width: 1rem; height: 1rem; margin-top: 0.15rem; }
+  a { color: inherit; }
+}
+
+// Long abstracts and summaries need more room than the template default
+.pub-collapse.show { max-height: 6000px; }
+
+// Policy reports
+.report-entry {
+  .report-local { color: var(--text-secondary); font-size: 0.9375rem; }
+
+  .report-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-4);
+    margin-top: var(--space-2);
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+
+    b { font-weight: 600; color: var(--text-secondary); }
+  }
+
+  .report-summary {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: var(--space-4);
+    margin-top: var(--space-3);
+    font-size: 0.9375rem;
+    text-align: justify;
+
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+// Responsive 16:9 video embeds (Dissemination page, blog posts)
+.video-embed {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  aspect-ratio: 16 / 9;
+  margin: var(--space-4) 0 var(--space-8);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+// Media list on the Dissemination page
+.media-list p { margin-bottom: var(--space-3); }
+
+// Blog post images
+article [itemprop="articleBody"] img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  margin: var(--space-2) 0;
+}
+
+// Read-only archived comments on blog posts
+.archived-comments {
+  margin-top: var(--space-10);
+
+  .comment {
+    padding: var(--space-3) var(--space-4);
+    margin-bottom: var(--space-3);
+    border-left: 3px solid var(--border-color);
+    background-color: var(--bg-secondary);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+
+    &.comment--depth1 { margin-left: var(--space-8); border-left-color: var(--accent); }
+    &.comment--depth2 { margin-left: calc(var(--space-8) * 2); border-left-color: var(--accent); }
+  }
+
+  .comment-author { font-weight: 600; margin: 0 0 var(--space-1); font-size: 0.9375rem; }
+  .comment-date { font-weight: 400; color: var(--text-muted); font-size: 0.8125rem; margin-left: var(--space-2); }
+  .comment-message { font-size: 0.9375rem; }
+}
+
+// Syntax highlighting for code blocks (Rouge)
+.highlight {
+  --hl-comment: #6a737d;
+  --hl-keyword: #c2185b;
+  --hl-string: #1b7f3b;
+  --hl-number: #005cc5;
+  --hl-function: #6f42c1;
+
+  .c, .c1, .cm, .cs, .cp { color: var(--hl-comment); font-style: italic; }
+  .k, .kd, .kn, .kp, .kr, .kt, .kc, .ow { color: var(--hl-keyword); }
+  .s, .s1, .s2, .sb, .sc, .sd, .se, .sh, .si, .sx, .sr, .ss { color: var(--hl-string); }
+  .m, .mi, .mf, .mh, .mo, .il { color: var(--hl-number); }
+  .nf, .fm, .nb, .bp { color: var(--hl-function); }
+}
+
+[data-bs-theme="dark"] .highlight {
+  --hl-comment: #8b949e;
+  --hl-keyword: #ff7b9c;
+  --hl-string: #7ee787;
+  --hl-number: #79c0ff;
+  --hl-function: #d2a8ff;
+}
+
+// Abstracts in a readable text face (BibTeX blocks stay monospace)
+.pub-collapse[id^="abs-"] pre {
+  font-family: inherit;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  text-align: justify;
+}
+
+.report-summary p, .archived-comments p { max-width: none; }

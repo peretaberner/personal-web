@@ -1,59 +1,78 @@
-# Talks, shown on the Talks page in the order listed (newest first is conventional).
+# Workshops, seminars and conference presentations, shown on the Resume page (newest first).
 # Each entry needs: title, event, year
-# Optional: location, date (free text, e.g. "11 December"), type (invited or contributed;
-#           anything other than invited is listed as contributed), url, slides, video
+# Optional: location, date, url, slides, video
+- title: "50th Simposio de la Asociación Española de Economía"
+  event: Universitat Autònoma de Barcelona
+  location: Barcelona
+  year: 2025
 
-- title: Personal observations on the reliability of the Shuttle
-  event: Rogers Commission
-  location: Washington, D.C.
-  year: 1986
-  type: invited
+- title: "16a Trobada Comunitat de pràctica d’avaluació de polítiques públiques (CoAVA)"
+  event: Departament d'Economia i Finances, Generalitat de Catalunya
+  year: 2025
+  url: https://record.bibliotecadigital.gencat.cat/handle/20.500.14345/2329
 
-- title: Simulating physics with computers
-  event: MIT Conference on Physics and Computation
-  year: 1981
-  type: invited
-  slides: https://example.com/slides
+- title: "XXXII Meeting on Public Economics"
+  event: University of Huelva
+  location: Punta Umbría
+  year: 2025
 
-- title: Difficulties in applying the variational principle to quantum field theories
-  event: Workshop on Variational Calculations in Quantum Field Theory
-  location: Wangerooge
-  year: 1987
+- title: "1st IEB PhD Student Workshop in Public Policies"
+  event: University of Barcelona, Institut d'Economia de Barcelona
+  location: Barcelona
+  year: 2024
 
-- title: Los Alamos from below
-  event: APS Annual Meeting
-  location: Santa Barbara
-  year: 1975
-  video: https://example.com/video
+- title: "UB PhD Workshop"
+  event: University of Barcelona School of Economics
+  location: Barcelona
+  year: 2024
 
-- title: The parton model
-  event: Third International Conference on High Energy Collisions
-  location: Stony Brook
-  year: 1970
+- title: "IX Congreso de la Red Española de Política Social (REPS). Crisis globales e impactos locales: Tendencias y respuestas públicas y comunitarias para la transición ecosocial"
+  event: REPS, Universitat de les Illes Balears
+  location: Palma
+  year: 2023
 
-- title: The development of the space-time view of quantum electrodynamics
-  event: Nobel Lecture
-  location: Stockholm
-  year: 1965
-  date: 11 December
-  type: invited
-  url: https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/
+- title: "XXX Meeting on Public Economics"
+  event: University of Extremadura
+  location: Badajoz
+  year: 2023
 
-- title: The relation of mathematics to physics
-  event: Cornell Messenger Lectures
-  year: 1964
+- title: "Jornada municipal per un nou model de polítiques locals de garantia d'ingressos"
+  event: Diputació de Barcelona
+  location: Barcelona
+  year: 2022
+  video: https://www.youtube.com/watch?v=j_Mp1tI9OyY&t=845s
+  slides: https://www.diba.cat/documents/35539993/369560784/PPT+Salaris_Refer%C3%A8nciaProvBCN.pdf/1c9e3376-2e4d-48b7-8276-11fb2e643c8e?t=1653566704438
 
-- title: There's plenty of room at the bottom
-  event: Annual Meeting of the American Physical Society
-  location: Caltech
-  year: 1959
-  type: invited
+- title: "PhD in Economics Student Seminar"
+  event: UB School of Economics
+  location: Online
+  year: 2021
 
-- title: The universal Fermi interaction
-  event: Rochester Conference on High Energy Physics
-  year: 1957
+- title: "Graduate Students in Economics of Education Zoom (GEEZ) Seminars"
+  location: Online
+  year: 2020
 
-- title: Atomic theory of liquid helium
-  event: International Conference on Theoretical Physics
-  location: Tokyo
-  year: 1953
+- title: "IX EvaluAES Workshop on Research in Health Policy Evaluation"
+  event: EvaluAES
+  location: Online
+  year: 2020
+  video: https://youtu.be/kJmvVjEMUW8
+
+- title: "XXVII Meeting on Public Economics"
+  event: University of Barcelona & IEB
+  location: Barcelona
+  year: 2020
+
+- title: "Evaluating the impact of educational programs: methods and cases workshop"
+  event: UNESCO's Mobile Learning Week 2019
+  location: Paris
+  year: 2019
+
+- title: "1st Gender and Education Workshop"
+  event: University of Barcelona
+  location: Barcelona
+  year: 2019
+
+- title: "11th International Conference of Education, Research and Innovation"
+  location: Sevilla
+  year: 2018

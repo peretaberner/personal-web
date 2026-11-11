@@ -44,10 +44,13 @@
 // Layouts
 @import "layouts/grid";
 @import "layouts/home";
-@import "layouts/team";
-@import "layouts/research";
+@import "layouts/team";   // also styles the .pi-card used on the Resume page
+// (research cards layout removed)
 
 // Utilities
 @import "utilities/dark-mode";
 @import "utilities/animations";
 @import "utilities/print";
+
+// Site-specific additions (peretaberner.eu)
+@import "components/custom";

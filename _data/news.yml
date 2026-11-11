@@ -1,20 +1,19 @@
-# News items shown on the home page sidebar.
-# The 3 most recent are shown; all appear on /allnews.
-# Each entry needs: date, headline
-- date: 6 February, 1986
-  headline: "Appointed to the Rogers Commission investigating the Space Shuttle Challenger disaster"
+# News items shown in the home-page sidebar (the 3 most recent) and on /allnews.html.
+# Each entry needs: date, headline (HTML allowed)
+- date: "2026"
+  headline: "New KSNET Working Paper: <em>Experimental evidence on the impact of cultural activities on health and well-being among the elderly</em>"
 
-- date: 1 January, 1980
-  headline: "National Medal of Science awarded by President Carter"
+- date: "2025"
+  headline: "Award for the best communication on the Sustainability of Public Policies axis at the 4th Congress of Economy and Business of Catalonia"
 
-- date: 21 October, 1965
-  headline: "Awarded the Nobel Prize in Physics for contributions to quantum electrodynamics"
+- date: "2025"
+  headline: "Appointed Academic Secretary of the <em>Journal of Policy Evaluation</em> (JPEVAL)"
 
-- date: 1 September, 1961
-  headline: "The Feynman Lectures on Physics begins publication"
+- date: "2025"
+  headline: "Published in <em>Gestión y Análisis de Políticas Públicas</em>: Targeted activation: Evaluating a public-private labour market policy in Barcelona"
 
-- date: 1 June, 1959
-  headline: "Delivered 'There's Plenty of Room at the Bottom' talk at Caltech APS meeting"
+- date: "2025"
+  headline: "New IEB Working Paper: <em>Crime at your doorstep: Gender-specific effects on university student performance</em>"
 
-- date: 1 January, 1951
-  headline: "Joined the faculty at California Institute of Technology"
+- date: "2025"
+  headline: "Book chapter in <em>Diez políticas para una década</em> (Debate, Penguin Random House)"

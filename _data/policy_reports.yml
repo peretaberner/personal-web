@@ -1,0 +1,366 @@
+# Policy reports shown on the Policy Reports page, grouped by year (newest first).
+# Fields: year, title, title_local (optional), client, role, language, summary (Markdown),
+#         links (list of label + url).
+
+- year: 2025
+  title: "Results and Impact Evaluation of “Treball als Barris de Manresa”"
+  title_local: "Avaluació de resultats i impacte del Programa Treball als barris de Manresa"
+  client: "Ajuntament de Manresa"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The aim of this study is to evaluate the overall impact of the “Treball als Barris” program in the municipality of Manresa, both in terms of employment and social impact. First, a systematic literature review of similar programs is conducted. Second, the study analyzes the employment and social trajectories of participants, how the program interventions have influenced these trajectories, and which profiles have responded best to each intervention. Third, a case study is carried out using focus groups to gain a deeper understanding of the participants’ experiences. Finally, a counterfactual analysis is performed to measure the program’s impact on the participants."
+  links:
+    - label: "Read report (Catalan)"
+      url: "https://www.ksnet.eu/wp-content/uploads/2026/01/AVALUACIO-DE-RESULTATS-I-IMPACTE-DEL-PROGRAMA-TREBALL-ALS-BARRIS-DE-MANRESA.pdf"
+
+- year: 2025
+  title: "Evaluation of measures to promote educational continuity in post-compulsory education"
+  title_local: "Avaluació de les mesures per impulsar la continuïtat educativa en l’etapa post-obligatòria. Què poden fer els centres educatius?"
+  client: "Consorci d'Educació de Barcelona"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The study comprises four main evaluations on early school leaving in compulsory secondary education. The first aims to measure the effect of the characteristics (in the pedagogical, organisational, and material dimensions) of high-complexity schools on the continuity of students into post-compulsory studies. The other three seek to analyse the effect of specific schooling measures on the completion of intermediate vocational training programmes: the guidance council, the prioritisation of continuity enrollment, and scholarships."
+  links:
+    - label: "Read report (Catalan)"
+      url: "https://www.edubcn.cat/rcs_gene/extra/01_documents_de_referencia/informes/20250312_Informe_KSNET_abandonament_Complet.pdf"
+    - label: "Check final presentation (Catalan)"
+      url: "https://www.edubcn.cat/rcs_gene/extra/01_documents_de_referencia/informes/20250612_Presentacio_completa_mesures_contra_abandonament.pdf"
+
+- year: 2025
+  title: "Comprehensive evaluation of two employment subsidies programs"
+  title_local: "Majors de 45 anys 2020-2021 i persones de 30 i més anys"
+  client: "Servei d'Ocupació de Catalunya (Catalunya)"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The study comprises a design, implementation and impact evaluation of the \"Contractació laboral de persones de 30 o més anys\" and \"Foment de contractació de persones de més de 45 anys\" progrmas. These two hiring subsidy schemes target different groups facing labour market disadvantages by subsidising employers’ wage costs. The main objective of the programs is to foster the employability and job quality of these groups."
+  links:
+    - label: "Read report (Catalan)"
+      url: "https://serveiocupacio.gencat.cat/web/.content/01_SOC/09_Transparencia-i-bon-govern/Avaluacio-i-estudis/Avaluacions-de-politiques-actives-docupacio-02/Foment-de-locupacio/Informe_Major-45-i-Persones-de-30-i-mes-anys.pdf"
+
+- year: 2025
+  title: "Comprehensive evaluation of the labour program “Treball i Formació”"
+  title_local: "Treball i Formació 2020-2022"
+  client: "Servei d'Ocupació de Catalunya (Catalunya)"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The study comprises a design, implementation and impact evaluation of the Work and Training Program (Treball i Formació). The program combines subsidised employment with training opportunities aimed at enhancing the labour market integration of disadvantaged groups."
+  links:
+    - label: "Read report (Catalan)"
+      url: "https://serveiocupacio.gencat.cat/web/.content/01_SOC/09_Transparencia-i-bon-govern/Avaluacio-i-estudis/Avaluacions-de-politiques-actives-docupacio-02/Foment-de-locupacio/Informe_-Treball-i-formacio-CAT.pdf"
+
+- year: 2024
+  title: "Situation of people with intellectual disabilities in Catalonia"
+  title_local: "Informe sobre la situació de las persones amb discapacitat intel·lectual a Catalunya"
+  client: "DINCAT & Fundació Granés"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "This second edition of the Report entitled \"*Situation of People with Intellectual Disabilities in Catalonia*\" is based on updated data collected in 2023. The objective is to understand the socio-economic reality of people with disabilities in Catalonia over the past year (up to the latest available data from 2023) and compare it with the trends of recent years, identify critical areas where public policies are falling short, and propose policy recommendations to improve the quality of life of people with intellectual disabilities."
+  links:
+    - label: "Read report"
+      url: "https://www.dincat.cat/docs/2n-InformeDIDCAT.pdf"
+
+- year: 2024
+  title: "Statistical reports on catalan airport infrastructures managed by Aeroports Públics de Catalunya"
+  title_local: "Informes estadístic de les infraestructures aeroportuàries gestionades per Aeroports Públics de Catalunya"
+  client: "Aeroports Públics de Catalunya"
+  role: "co-authorship"
+  language: "Catalan"
+  links:
+    - label: "Statistical reports"
+      url: "https://aeroports.gencat.cat/ca/gestio-aeronautica/estadistiques/"
+
+- year: 2023
+  title: "Active employment policies in Extremadura"
+  title_local: "Políticas activas de empleo en Extremadura"
+  client: "AIReF"
+  role: "collaboration within the RedEV Team"
+  language: "Spanish"
+  summary: "This study aims to evaluate the effectiveness of the three main categories of programs that constitute the active employment policies implemented by the Public Employment Service of Extremadura (SEXPE): employment incentives in the private sector, direct job creation in the public sector, and training initiatives. The study seeks to identify areas for improvement in the allocation of public resources. To this end, eight programs from these three categories, designed to enhance the employability of individuals experiencing unemployment, have been selected and analyzed in terms of their effectiveness. Causal methodologies have been used to assess the impact of each employment program."
+  links:
+    - label: "Read report"
+      url: "https://www.airef.es/wp-content/uploads/2023/11/EXTREMADURA/Estudio-Poli%CC%81ticas-Activas-de-Empleo-en-Extremadura.pdf"
+
+- year: 2023
+  title: "Implementation evaluation of intensive measures and supports for students with special educational needs"
+  title_local: "Avaluació de la implementació de les mesures i suports intensius dirigits als alumnes amb necessitats educatives especials"
+  client: "Departament d'Educació, Generalitat de Catalunya."
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The main purpose of this evaluation was to determine how the services, resources and activities analyzed work and their adequacy to the existing needs within the framework of an inclusive educational system. Thus, the actions, resources and educational services under evaluation were: the intensive measures and support (MSI) aimed at students with special educational needs (SEN), the actions of the EAPs aimed at students with SEN due to the key role they play in the psycho-pedagogical evaluation for the recognition of NESE – specifically, SEN -, and the counseling they provide to the entire educational community – and the CRETDICs – to support students with developmental and behavioral disorders, and counseling in the educational community"
+  links:
+    - label: "Read report"
+      url: "https://educacio.gencat.cat/web/.content/home/departament/avaluacio-politiques-publiques/avaluacions-finalitzades/educacio-inclusiva/avaluacio-policy-brief.pdf"
+
+- year: 2023
+  title: "Development of a model for community detection and early intervention in at-risk case"
+  title_local: "Desarrollo del modelo de detección comunitaria e intervención temprana en casos de situación de riesgo"
+  client: "UNICEF"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "This work consists of the design of a methodology model for detection and intervention at the local level in situations of risk for children and adolescents from a community, preventive and gender perspective, based on comprehensive support centered on each person and on children’s rights. The objectives of the research are (i) to design the model of intervention in risk situations at the local level, differentiating between the detection model and the model of intervention in a situation of moderate risk (ii) to improve the system of detection and local intervention in risk situations (iii) to generate and disseminate knowledge to facilitate its replicability in other municipalities. The results to be achieved are (i) diagnosis of the situation (ii) map of resources, measures and actions (iii) bank of good practices (iv) proposal of the community and integral intervention model (v) proposal of the community and integral intervention model. For the development of the project, 10 pilot municipalities have been selected to serve as the basis for the analysis and will participate in the process of designing the detection and intervention model."
+  links:
+    - label: "Read report"
+      url: "https://ciudadesamigas.org/proteccion-a-la-infancia-desde-lo-local/documentos/"
+
+- year: 2022
+  title: "How much would it cost to guarantee two weeks of summer camp for all vulnerable children in each municipality?"
+  client: "Fundació Jaume Bofill, Estiu Enriquit"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "This article focuses on summer camps, an activity that many families cannot afford for economic reasons. KSNET makes the necessary calculations in order to establish the necessary investment to ensure that vulnerable children can access at least five summer activities, establishing different scenarios according to the profile of the students and the area."
+
+- year: 2022
+  title: "Calculation of the Palma Local Reference Wage"
+  title_local: "Càlcul del Salari de Referència Local a Palma"
+  client: "Ajuntament de Palma, Àrea de Benestar Social"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "This report provides a methodological approach to the calculation of the reference wage for the municipality of Palma de Mallorca, focusing the analysis on the local world and its particularities."
+  links:
+    - label: "Read report"
+      url: "https://www.ksnet.eu/wp-content/uploads/2023/04/Informe_Palma_SRL_2022_final.pdf"
+
+- year: 2022
+  title: "Impact Evaluation of the Local Industry Occupation Program: third call"
+  title_local: "Programa Ocupació a la Indústria Local: Avaluació de l'impacte de la tercera convocatòria"
+  client: "Diputació de Barcelona"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The aim of this report is to evaluate the impact of the Local Industry Occupation Program (POIL) - third call - on the employability of participants. In particular, the evaluation looks at whether participants have a higher probability of being employed in the industrial sector after participation in the program."
+  links:
+    - label: "Read report"
+      url: "https://transparencia.diba.cat/sites/transparencia.diba.cat/files/public/node/field_fitxers/informe_avaluacio_industria_local.pdf"
+
+- year: 2022
+  title: "Goodbye to the Mediterranean diet: nutrition and healthy habits of childhood in Spain"
+  title_local: "Adiós a la dieta mediterránea: nutrición y hábitos saludables de la infancia en España"
+  client: "Save the Children Spain"
+  role: "co-authorship"
+  language: "Spain"
+  summary: "We conducted a Spanish national survey of 2,000 families to understand the impact of the COVID-19 crisis on the nutrition and health of children in Spain. In the study, we compare the results with the National Health Survey of Spain carried out in 2017. The research shows that almost 28.1% of those under 18 years of age would be overweight and/or obese in Spain after COVID -19, a similar proportion to that before the pandemic, which stood at 27.6%. This situation can be aggravated by the increase in the prices of vegetables and fruits as a result of the recent runaway inflation."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/sites/default/files/2022-04/Informe_STC_Adios_a_la_dieta_mediterranea.pdf"
+
+- year: 2022
+  title: "Young people in Catalonia. Diagnosis of their socioeconomic situation and future scenarios"
+  title_local: "Les persones joves a Catalunya. Diagnosi de la situació actual i escenaris futurs"
+  client: "Observatori Català de la Joventut"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "We analyse the current socio-economic situation of young people (15-29 yo) in Catalonia: labour, education, health, housing, earnings, and poverty. Then, we predict their socio-economic situation in the future: 2022, 2023, and 2024. Finally, we provide policy recommendations to foster well-being and equal opportunities for young people living in Catalonia."
+  links:
+    - label: "Read report"
+      url: "https://dretssocials.gencat.cat/ca/detalls/Article/Analisi-6"
+
+- year: 2021
+  title: "Active employment policies in Castilla y León"
+  title_local: "Políticas activas de empleo en Castilla y León"
+  client: "AIReF"
+  role: "collaboration within the REDEV Team"
+  language: "Spanish"
+  summary: "This study analyzes four programs of the Public Employment Service of Castilla y León, which total more than 30 million euros executed in the year analyzed. The study is divided into two blocks: the first analyzes two programs through an evaluation of design and procedures, an evaluation of monitoring indicators and information systems, and an impact evaluation on employability and the quality of employment. The second block carries out an impact evaluation on the employability of workers in the two other programs. Finally, the study presents a series of proposals for improvement."
+  links:
+    - label: "Read report"
+      url: "https://www.airef.es/wp-content/uploads/2021/12/ESTUDIO_CyL/PDF-WEB-CASTILLA-Y-LEON2.pdf"
+
+- year: 2021
+  title: "Calculations of a local reference wage in the province of Barcelona"
+  title_local: "Càlcul del salari de referènica local de la provincia de Barcelona"
+  client: "Diputació de Barcelona"
+  role: "co-authorship"
+  language: "Catalan"
+
+- year: 2021
+  title: "Implementation evaluation of POEFA"
+  title_local: "Avaluació integral de la implementació del POEFA"
+  client: "Department of Education, Generalitat de Catalunya."
+  role: "co-authorship"
+  language: "Catalan"
+  links:
+    - label: "Read report"
+      url: "https://educacio.gencat.cat/web/.content/home/departament/avaluacio-politiques-publiques/avaluacions-finalitzades/exit-educatiu-poefa/poefa-avaluacio.pdf"
+
+- year: 2021
+  title: "Grow up mentally healthy"
+  title_local: "Crecer Saludable(mente)"
+  client: "Save the Children Spain"
+  role: "co-authorship"
+  language: "Spanish"
+  summary: "After conducting a Spanish national survey of 2,000 families on the mental health of their children, the report indicates that the incidence of these problems is three times higher (10%) in unemployed families than families that have kept their jobs (3%) after the COVID-19 crisis. Furthermore, children and adolescents living in low-income households are 4 times more likely (13%) to suffer from mental and/or behavioral disorders than those living in high-income households (3%). Also in the poorest households there is a greater proportion of migrant children who have a higher incidence of mental and/or behavioral disorders."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/sites/default/files/2021-12/Informe_Crecer_saludablemente_DIC_2021.pdf"
+
+- year: 2021
+  title: "Proposals to reform the local financing system"
+  title_local: "Propuestas de reforma del sistema de financiación local: revisión de la literatura"
+  client: "Fundación Democracia y Gobierno Local"
+  role: "co-authorship"
+  language: "Spanish"
+  summary: "It aims to review the set of reform proposals for the Spanish local financing model that have been developed over the last decade. In the case of municipalities, this review refers to the two key pieces of the model: the resources that come from their tax basket and the resources that come from transfers granted by other administrations. And in the case of supra-municipal administrations, it basically refers to the transfers they receive from other levels of government."
+  links:
+    - label: "Read report"
+      url: "https://www.gobiernolocal.org/propuestas-de-reforma-del-sistema-de-financiacion-local/"
+
+- year: 2021
+  title: "Systematic review of social indicators for labour public policy evaluations"
+  title_local: "Mapa d’impactes socials per a l’avaluació de polítiques d’ocupació"
+  client: "Servei d'Ocupació de Catalunya (SOC) and IVALUA"
+  role: "co-authorship"
+  language: "Catalan"
+  links:
+    - label: "Read policy brief"
+      url: "https://ivalua.cat/sites/default/files/2021-12/PB_Indicadors%20SOC_Def_0.pdf"
+
+- year: 2020
+  title: "The impact of the COVID-19 crisis on the most vulnerable children"
+  title_local: "Impacto de la crisis por COVID-19 sobre los niños y niñas más vulnerables"
+  client: "UNICEF Spain"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "The aim of this study is to show how children and adolescents in Spain are being affected by the COVID-19 crisis. We analyze both the effect of the economic and health policies that led to children’s strict confinement and the closure of schools."
+  links:
+    - label: "Read report"
+      url: "https://www.unicef.es/sites/unicef.es/files/recursos/informe-infacia-covid/covid19-infancia_vulnerable_unicef.pdf"
+
+- year: 2020
+  title: "Childhood in reconstruction"
+  title_local: "Infancia en reconstrucción"
+  client: "Save the Children Spain"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "After three months marked by uncertainty, at the time of the de-escalation and discussions about how to approach the social and economic reconstruction of the country, KSNET has collaborated with Save the Children in this report, in which recommendations are offered for the different administrations develop public policies with a childhood perspective and take the appropriate measures so that no child is left behind."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/sites/default/files/2020-07/Informe_Infancia_En_Reconstruccion.pdf"
+
+- year: 2020
+  title: "Covid-19: Closing the gap"
+  title_local: "Covid-19: Cerrando la brecha. Impacto educativo y propuestas de equidad para la desescalada"
+  client: "Save the Children Spain"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "KSNET has collaborated in this report the aim of which is to study the educational effects of the main measures undertaken during the health crisis. More precisely, it studies the best practices and public policies that have been implemented in other countries in order to learn how to translate them to our system. Finally, the report states some policy recommendations for the Public Administrations."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/actualidad/informe-covid-19-cerrar-la-brecha"
+
+- year: 2020
+  title: "Reform of the guaranteed income system and its impact on poverty"
+  title_local: "Reforma del sistema de garantía de ingresos y su impacto en la pobreza"
+  client: "Oxfam Intermón Spain"
+  role: "co-authorship of the methodological report"
+  language: "Spanish"
+  summary: "KSNET has computed the costs and potential benefits of an Oxfam Intermon proposal to establish a guaranteed income operating at the central level in Spain."
+  links:
+    - label: "Read report"
+      url: "https://cdn2.hubspot.net/hubfs/426027/Oxfam-Website/OxfamWeb-Documentos/OxfamWeb-Informes/hora-rescatar-personas-oxfam-intermon-I.pdf"
+    - label: "Read Methodological Report"
+      url: "https://oxfam.app.box.com/s/4vomml8zqntp8dfi0s4dts9ep736eqyr"
+
+- year: 2019
+  title: "Evaluation of the Comunica and Curiosity Educational Programs"
+  title_local: "Avaluació dels programes educatius Comunica i Curiosity"
+  client: "Fundació Bancaria “la Caixa”"
+  role: "co-authorship"
+  summary: "This evaluation aims at identifying whether pupils that participated in any of these two programs improved the competences that the programs are aiming at improving. It also looks at whether the improvement is stable over time, increases or vanishes. Apart from the impact evaluation, the project also looks at the implementation process, the adequacy of the tools used to the objective of the programs and the teachers’ satisfaction with them."
+  links:
+    - label: "Read summary"
+      url: "https://www.ksnet.eu/portfolio-item/evaluation-of-the-comunica-and-curiosity-educational-programs/?lang=en"
+
+- year: 2019
+  title: "Social Impact Bonds: What are they and how to implement them?"
+  title_local: "Bonos de Impacto Social: ¿Qué son y cómo llervarlos a cabo?"
+  client: "General Direction of Innovation and Social Strategy – Ayuntamiento de Madrid"
+  role: "co-authorship"
+  language: "Spanish"
+  summary: "The aim of this report is to analyze the state of the art about Social Impact Bonds (SIB). This is an innovative way of tackling social problems based on the results of the programs or on pay-for-success. The report studies the basic elements of SIB, the main implementation problems and how to solve them. The study also reports some international success cases and proposes some potential cases for the Ayuntamiento de Madrid."
+
+- year: 2019
+  title: "The impact of mobile money on monetary stability in Sub-Saharan Africa"
+  client: "GSMA"
+  role: "collaboration within the KSNET team"
+  language: "English"
+  summary: "KSNET has collaborated with the GSMA in the elaboration of a report looking at the impact of mobile money on macroeconomic and financial development in Sub-Saharan Africa."
+  links:
+    - label: "Read report"
+      url: "https://www.gsmaintelligence.com/research/?file=5397afe5736f88d913fb953f5d37daa7&download"
+
+- year: 2019
+  title: "Blend with me: Appendix for Madrid’s Autonomous Community"
+  title_local: "Mézclate conmigo: Anexo Comunidad de Madrid"
+  client: "Save the Children Spain"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "KSNET has collaborated in this appendix for the Comunidad de Madrid of the main publication “Mézclate conmigo. De la segregación socioeconómica a la educación inclusiva” elaborated by Save the Children. The aim of this report is to place school socioeconomic segregation as a fundamental challenge for the Madrid education system by studying what is going wrong and how can we change it."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/sites/default/files/imce/docs/mezclate_conmigo-anexo_cm.pdf"
+
+- year: 2019
+  title: "The future where we want to grow up in"
+  title_local: "El futuro donde queremos crecer"
+  client: "Save the Children Spain"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "KSNET has collaborated in a report named “El futuro donde queremos crecer” by Save the Children providing an analysis of the reality of Spanish children, describing the evolution in the past years and the main trends for 2022 and 2030. In addition, KSNET has identified the main changes that would be necessary in terms of social protection, health, education and work-life balance in order to revert the current situation."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/sites/default/files/imce/docs/el_futuro_donde_queremos_crecer.pdf"
+
+- year: 2018
+  title: "Study for the Badalona economic performance award model review"
+  title_local: "Estudi per a la revisió del model d’atorgament de prestacions econòmiques a Badalona"
+  client: "Diputació de Barcelona"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "KSNET has carried out this study which includes a diagnosis of the current model of awarding social benefits to Badalona, the development of a theoretical framework and proposals for reforming the current model. The main aim of the study is to improve the current model of granting social economic benefits in the city of Badalona, in order to move towards a more agile system and in reducing the conditionality of the benefits granted."
+
+- year: 2018
+  title: "Impact Evaluation of the Local Industry Occupation Program: first and second calls"
+  title_local: "Ocupació a la Indústria Local: Avaluació de la primera i segona convocatòria"
+  client: "Diputació de Barcelona"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The aim of this report is to evaluate the impact of the Local Industry Occupation Program (POIL) - first and second calls - on the employability of participants. In particular, the evaluation looks at whether participants have a higher probability of being employed in the industrial sector after participation in the program."
+  links:
+    - label: "Read report"
+      url: "http://ocupacio.diba.cat/sites/ocupacio.diba.cat/files/informe_final_avaluacio_ksnet.pdf"
+    - label: "Read official dissemination of the results"
+      url: "https://ocupacio.diba.cat/news/2020/01/22/participar-al-programa-ocupacio-industria-local-de-diputacio-de-barcelona-incrementa"
+
+- year: 2018
+  title: "Impact evaluation of cultural activities in elderly people"
+  title_local: "Evaluación del impacto de un programa de itinerarios culturales para personas mayores"
+  client: "Fundació Bancària “la Caixa”"
+  role: "co-authorship"
+  language: "Spanish"
+  summary: "The study sheds some light on the impact of cultural activities in people’s welfare. In particular, the study analyses the effects of a program of cultural itineraries designed especially for elderly people on their welfare."
+  links:
+    - label: "Read report"
+      url: "http://ksnet.eu/wp-content/uploads/2020/02/INFORME_ITINERARIOS_CULTURAL_18GN.pdf"
+    - label: "Read executive summary"
+      url: "http://ksnet.eu/wp-content/uploads/2020/02/STRATEGIC-Brief_18GN.pdf"
+
+- year: 2018
+  title: "The cost of raising a child"
+  title_local: "El coste de la crianza"
+  client: "Save the Children Spain"
+  role: "collaboration within the KSNET team"
+  language: "Spanish"
+  summary: "The aim of this report is to quantify the cost of raising a child. To do so, we compute the minimum cost to raise children of different ages that allows them to live with dignity."
+  links:
+    - label: "Read report"
+      url: "https://www.savethechildren.es/publicaciones/el-coste-de-la-crianza"
+
+- year: 2018
+  title: "Income needs in municipalities of the Barcelona Metropolitan Area"
+  title_local: "Estudi sobre les necessitats de renda als municipis de l'Àrea Metropolitana de Barcelona"
+  client: "Metropolitan Area of Barcelona"
+  role: "co-authorship"
+  language: "Catalan"
+  summary: "The aim of this report is to study the income needs in all municipalities of the Barcelona metropolitan area and their capacity to give an answer to them. Moreover, the report analyses different local financial ways that could be used to avoid inequity situations among citizens depending on their municipality of residence."
+  links:
+    - label: "Read report"
+      url: "https://www.amb.cat/web/desenvolupament-socioeconomic/estudis-socioeconomics/detall/-/estuditerritorial/necessitats-de-renda-als-municipis/7043386/11708"

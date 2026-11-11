@@ -1445,7 +1445,7 @@
   <macro name="container-periodical">
     <group delimiter=". ">
       <group delimiter=", ">
-        <text variable="container-title" font-style="italic" text-case="title"/>
+        <text variable="container-title" font-style="italic"/>
         <text variable="address"/>
         <choose>
           <if variable="volume">
@@ -1532,7 +1532,7 @@
         <else-if type="post webpage address" match="any">
           <!-- For websites, treat container title like publisher -->
           <group delimiter="; ">
-            <text variable="container-title" text-case="title"/>
+            <text variable="container-title"/>
             <text variable="publisher"/>
             <text variable="address"/>
           </group>

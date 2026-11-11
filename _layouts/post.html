@@ -11,4 +11,6 @@ layout: default
   <div itemprop="articleBody">
     {{ content }}
   </div>
+  {% include archived-comments.html %}
+  <p style="margin-top: var(--space-8);"><a href="{{ '/blog/' | relative_url }}">&larr; All blog posts</a></p>
 </article>

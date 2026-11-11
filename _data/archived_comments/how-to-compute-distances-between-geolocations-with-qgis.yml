@@ -1,0 +1,16 @@
+- name: "cherenet"
+  date: 2023-06-15 13:00:22
+  depth: 0
+  message: "but the distance you get doing so is in degrees. what if we want kilometers?"
+- name: "Pere A. Taberner"
+  date: 2024-02-24 16:53:47
+  depth: 1
+  message: "Hey, you have to set the proper CRS to do so and then compute the distance matrix. Thanks"
+- name: "Armand Mutwadi"
+  date: 2023-07-17 00:43:43
+  depth: 0
+  message: "Indeed, very helpfull"
+- name: "Pere A. Taberner"
+  date: 2024-02-20 11:15:44
+  depth: 1
+  message: "Thank you, Armand!"

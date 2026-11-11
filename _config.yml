@@ -14,7 +14,7 @@ links:
   google_scholar: "https://scholar.google.es/citations?user=aGnMSkEAAAAJ&hl"
   github: ""
   researchgate: "https://www.researchgate.net/profile/Pere-Taberner"
-  orcid: ""
+  orcid: "https://orcid.org/0000-0003-2203-3703"
   twitter: ""
   linkedin: "https://www.linkedin.com/in/pere-antoni-taberner/"
   cv: ""  # e.g., "papers/cv.pdf"
@@ -22,7 +22,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color; light and dark variants are derived automatically
+accent_color: "#23395b"      # theme color; light and dark variants are derived automatically
 dark_mode: true              # set to false to disable dark mode entirely
 math: false                  # true loads MathJax on every page; or add `math: true` to individual pages
 description: "Academic webpage of Pere A. Taberner"
@@ -47,14 +47,14 @@ analytics:
 # Each name is a page in _pages/. Add `label: Papers` to change the
 # navbar text without changing the URL.
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
+  - name: resume
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
+  - name: policy-reports
+    label: Policy Reports
+  - name: dissemination
+  - name: links
   - name: blog
+  - name: contact
 
 # ============================================================
 # STEP 5: Publications (assets/ref.bib)
@@ -62,8 +62,8 @@ nav_pages:
 # Your name is bolded in the publication list. Write it exactly as it
 # appears in the rendered list ("Last, F. M."); list the longest form first.
 scholar:
-  last_name: Feynman
-  first_name: ["R. P.", "R."]
+  last_name: Taberner
+  first_name: ["P. A.", "P."]
   style: citesty
   locale: en
   source: /assets/
@@ -77,12 +77,13 @@ scholar:
   bibliography_list_attributes:
     reversed: "reversed"
   # Template-only fields, kept out of the copyable BibTeX
-  bibtex_skip_fields: [abstract, month_numeric, file, selected, code, slides, video, poster, data]
+  bibtex_skip_fields: [abstract, month_numeric, file, selected, code, slides, video, poster, data, urllabel, award, awardurl, blog, blogname, blog2, blog2name]
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
 # ============================================================
-permalink: /blog/:year/:title/
+# Blog posts use short URLs: /post-title/
+permalink: /:title/
 
 include:
   - _pages
@@ -119,7 +120,7 @@ exclude:
   - README.md
   - UPGRADING.md
   - LICENSE
-  - setup.sh
+  - citesty.csl
   - images/screenshots
   - vendor
   - .bundle

@@ -1,0 +1,44 @@
+- name: "Kevin Denny"
+  date: 2021-12-07 19:36:38
+  depth: 0
+  message: "When you calculate margins over a range of values , the marginsplot command is a handy way to graph them."
+- name: "Pere A. Taberner"
+  date: 2021-12-07 20:36:10
+  depth: 1
+  message: "Thank you Kevin for your comment! Indeed, this is so true. I should have plotted the example of the variable age and mention this nice command!"
+- name: "Jemal Abrahim"
+  date: 2023-04-24 11:28:10
+  depth: 0
+  message: "I want to learn how we can interpret the results by using stata"
+- name: "Pere A. Taberner"
+  date: 2024-02-20 11:13:38
+  depth: 1
+  message: "Thank you for your comment. Can you explain me with more detail what do you want to learn?"
+- name: "Minhaj Akhtar"
+  date: 2023-07-24 14:02:34
+  depth: 0
+  message: "Plz tell how to interpret ordered logistic regression coefficients"
+- name: "Pere A. Taberner"
+  date: 2024-02-20 11:15:32
+  depth: 1
+  message: "Hey Minhaj, can you provide me an email address and I will send you a brief explanation on this. Right now I'm working on ordered logit models."
+- name: "Minhaj Akhtar"
+  date: 2023-07-24 14:03:37
+  depth: 0
+  message: "Please tell how to interpret ordered logistic regression coefficient"
+- name: "James W. Oguttu"
+  date: 2023-08-29 08:29:33
+  depth: 0
+  message: "It would have been good if you had also demonstrated how to test for interactions between the covariates. by the way do you have to run a model with interactions before you test for interaction or you can test for interactions using the margins command even if you did not include interactions in the model?"
+- name: "Pere A. Taberner"
+  date: 2024-02-24 16:49:35
+  depth: 1
+  message: "Thank you, James for your comment! I would say that you need to introduce the interactions in your model before you test for interactions."
+- name: "Jain, Shreya"
+  date: 2024-04-18 09:32:34
+  depth: 2
+  message: "Hey Pere. Thank you for this post it was very informative. I would like to know how to interpret the interaction in logit. Since we don't get margins (ME) of Interaction term. So how do we plot them meaningfully and test if its significant or not?"
+- name: "Pere A. Taberner"
+  date: 2024-04-25 09:15:34
+  depth: 2
+  message: "Thank you very much, Shreya. Send me an e-mail to peretaberner@gmail.com and we can talk about it :)"

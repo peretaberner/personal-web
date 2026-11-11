@@ -1,0 +1,14 @@
+{% comment %}Read-only comments stored in _data/archived_comments/<post-slug>.yml{% endcomment %}
+{% assign archived = site.data.archived_comments[page.slug] %}
+{% if archived %}
+<section class="section-card archived-comments" markdown="0">
+  <h2>Comments</h2>
+  <p class="text-muted" style="font-size: 0.875rem;">Comments are closed. Feel free to <a href="{{ '/contact/' | relative_url }}">get in touch</a>.</p>
+  {% for c in archived %}
+  <div class="comment comment--depth{{ c.depth }}">
+    <p class="comment-author">{{ c.name }} <span class="comment-date">{{ c.date | date: "%b %-d, %Y" }}</span></p>
+    <div class="comment-message">{{ c.message | xml_escape | newline_to_br }}</div>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}

@@ -8,41 +8,33 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ '/research' | relative_url }}" class="chip">Quantum Electrodynamics</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Path Integrals</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Superfluidity</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Parton Model</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Quantum Computing</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Nanotechnology</a>
+<a href="{{ '/research/' | relative_url }}" class="chip">Economics of Education</a>
+<a href="{{ '/research/' | relative_url }}" class="chip">Labour Economics</a>
+<a href="{{ '/research/' | relative_url }}" class="chip">Gender Economics</a>
+<a href="{{ '/research/' | relative_url }}" class="chip">Applied Microeconometrics</a>
+<a href="{{ '/research/' | relative_url }}" class="chip">Data Science</a>
+<a href="{{ '/policy-reports/' | relative_url }}" class="chip">Policy Evaluation</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
+I am a **Senior Research Economist** and **Research Coordinator** at [KSNET](http://www.ksnet.eu). We are dedicated to knowledge transfer, we make academic research in economics accessible to society, firms, public administration, and the third sector.
+
+I am a **PhD Candidate in Economics** at the [University of Barcelona School of Economics](https://www.ub.edu/school-economics/) and at the [Public Policy Program at Institut d'Economia de Barcelona (IEB)](http://ieb.ub.edu/inicio/politicas-publicas/). My doctoral thesis consists of analyzing external factors that affect university performance from a gender perspective. The three factors I analyze are pressure, crime around student housing, and the professor’s gender.
+
+I am also the **Academic Secretary** of the [*Journal of Policy Evaluation (JPEVAL)*](https://polipapers.upv.es/index.php/jpeval/). It is a biannual scientific journal dedicated to the evaluation and monitoring of public policies through the publication of theoretical and empirical research articles, as well as reviews and sections on best practices related to policy evaluation and monitoring.
+
+My research interests are economics of education, labour economics, gender economics, applied microeconometrics, data science and (impact) policy evaluation.
 
 <div class="callout callout-success" markdown="0">
-<div class="callout-title">{% include icon.html name="award" class="callout-icon" %} Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
-
-<div class="banner-frame" markdown="0">
-<img src="{{ '/images/banner.webp' | relative_url }}" alt="Feynman diagrams" width="1400" height="449" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
+<div class="callout-title">{% include icon.html name="award" class="callout-icon" %} Best communication award, 2025</div>
+<p>Award for the best communication on the Sustainability of Public Policies axis at the 4th Congress of Economy and Business of Catalonia (Col·legi d'Economistes de Catalunya).</p>
 </div>
 
 {% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
 {% if selected contains "pub-entry" %}
-## Selected publications
+## Selected research
 
 <div class="section-card selected-pubs" markdown="0">
 {{ selected }}
-<p style="margin: var(--space-4) 0 0;"><a href="{{ '/publications' | relative_url }}">All publications &rarr;</a></p>
+<p style="margin: var(--space-4) 0 0;"><a href="{{ '/research/' | relative_url }}">All research &rarr;</a></p>
 </div>
 {% endif %}
-
-## About me
-
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
